@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Domine';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAI14.woff) format('woff');
+}
+@font-face {
+  font-family: 'Domine';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAI14.woff) format('woff');
+}
+@font-face {
+  font-family: 'Domine';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHI14.woff) format('woff');
+}
+@font-face {
+  font-family: 'Domine';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/domine/v10/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI14.woff) format('woff');
+}
+
